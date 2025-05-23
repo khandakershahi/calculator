@@ -1,6 +1,6 @@
 # Calculotr with JavaScript
 
-This project is about calculotr with JavaScript from Ostad.
+This project is about Calculator with JavaScript from Ostad.
 
 ## Features
 (empty)
@@ -24,3 +24,10 @@ This project is about calculotr with JavaScript from Ostad.
 ## License
 
 This project is for educational purposes.
+
+***
+
+## Modal project link
+
+
+https://github.com/khandakershahi/modal
