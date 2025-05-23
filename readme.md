@@ -14,7 +14,7 @@ This project is about calculotr with JavaScript from Ostad.
 ## How to Run
 1. Download the project
 2. Open the folder to your VS code and run the node.
-
+***
 
 ## Screenshots
 
