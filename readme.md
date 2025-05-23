@@ -1,4 +1,4 @@
-# Fun with JavaScript
+# Calculotr with JavaScript
 
 This project is about calculotr with JavaScript from Ostad.
 
